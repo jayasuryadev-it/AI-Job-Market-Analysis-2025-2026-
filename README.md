@@ -234,6 +234,6 @@ Possible future enhancements:
 
 # Author
 
-Jaya surya J
-B.Tech Information Technology
+Jaya surya J 
+B.Tech Information Technology 
 Aspiring Data Analyst
